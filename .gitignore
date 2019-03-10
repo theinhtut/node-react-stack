@@ -1,4 +1,4 @@
 .vscode
 node_modules
-config/keys.js
+dev.js
 text.txt
